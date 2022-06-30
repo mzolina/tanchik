@@ -8,5 +8,7 @@ public class Main {
         smallCat.weight += 1000;
         System.out.println("Вес большой кошки = " + bigCat.weight);
         System.out.println("Вес маленькой кошки = " + smallCat.weight);
+        System.out.println("Вес большой кошки = " + bigCat.weight);
+        System.out.println("Вес большой кошки = " + bigCat.weight);
     }
 }
